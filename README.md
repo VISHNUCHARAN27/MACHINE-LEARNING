@@ -11,3 +11,6 @@ https://www.kaggle.com/c/bike-sharing-demand
 Iris dataset
 https://www.kaggle.com/uciml/iris
 
+Titanic dataset
+https://www.kaggle.com/c/titanic
+

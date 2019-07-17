@@ -1,6 +1,6 @@
 # Machine learning problems 
 
-This code is my solution to the machine learning problem Forest Cover type prediction in Kaggle. You can get the dataset for 
+This code is my solution to few machine learning problems in Kaggle. You can get the dataset for 
 
 Forest cover type
 https://www.kaggle.com/c/forest-cover-type-prediction
